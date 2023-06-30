@@ -6,16 +6,17 @@ This repository contains the code examples for my book **Practical Advanced Type
 
 
 
-Chapter 1: Type System Multiverse & Type-level Programming
-Chapter 2: Metaprogramming in Javascript with TypeScript
-Chapter 3: Typescript Decorators
-Chapter 4: Asynchronous language features
-Chapter 5: Object Oriented Programming with TypeScript
-Chapter 6: Functional Programming with TypeScript
-Chapter 7: Aspect Oriented Programming in TypeScript
-Chapter 8: Gangs of Four (GoF) Design Patterns - Applying TypeScript
-Chapter 9: Microservice - Micro Frontend with TypeScript
-Chapter 10: Compiler options
+- Chapter 1: Type System Multiverse & Type-level Programming
+- Chapter 2: Metaprogramming in Javascript with TypeScript
+- Chapter 3: Typescript Decorators
+- Chapter 4: Asynchronous language features
+- Chapter 5: Object Oriented Programming with TypeScript
+- Chapter 6: Functional Programming with TypeScript
+- Chapter 7: Aspect Oriented Programming in TypeScript
+- Chapter 8: Gangs of Four (GoF) Design Patterns - Applying TypeScript
+- Chapter 9: Microservice - Micro Frontend with TypeScript
+- Chapter 10: Compiler options
+
 
 
 ...
